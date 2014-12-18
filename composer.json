@@ -2,7 +2,7 @@
     "name": "rooslunn/yii2-solr",
     "description": "Solr plugin for the Yii2 framework built ontop of Solarium",
     "type": "yii2-extension",
-    "keywords": ["rooslunn", "yii2", "extension", "yii2-extension", "Yii2 Extension", "solr", "solarium"],
+    "keywords": ["rooslunn", "sammaye", "yii2", "extension", "yii2-extension", "Yii2 Extension", "solr", "solarium"],
     "license": "BSD-3-Clause",
     "authors": [
         {
